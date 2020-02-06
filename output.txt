@@ -1,0 +1,456 @@
+Currently processing: list_size.sh
+list_size.sh is not a directory
+625
+Currently processing: output.txt
+output.txt is not a directory
+759
+Currently processing: test_dir
+test_dir is a directory
+test_dir is not ./. or ./..
+/home/joe/dev/csc60/test_dir
+Currently processing: file1
+file1 is not a directory
+759
+Currently processing: file2
+file2 is not a directory
+759
+Currently processing: test_subdir
+test_subdir is a directory
+test_subdir is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
+759
+Currently processing: ./.
+./. is a directory
+./. is not ./. or ./..
+/home/joe/dev/csc60/test_dir/test_subdir
+Currently processing: file3
+file3 is not a directory
