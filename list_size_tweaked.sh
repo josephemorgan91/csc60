@@ -7,7 +7,7 @@ get_file_size() {
 }
 
 add_file_sizes() {
-	for f in ./* ./.*; do
+	for f in * .[!.]*; do
 		echo "Currently processing: $f"
 		if [ -d "$f" ] && [ "$1" == -r ]; then
 			echo "$f is a directory"
