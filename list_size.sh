@@ -8,22 +8,8 @@ get_file_size() {
 
 add_file_sizes() {
 	for f in ./* ./.*; do
-		echo "Currently processing: $f"
-		if [ -d "$f" ] && [ "$1" == -r ]; then
-			echo "$f is a directory"
-			if [ "$f" !=  "./." ] || [ "$f" != "./.." ]; then
-				echo "$f is not ./. or ./.."
-				cd "$f"
-				pwd
-				add_file_sizes "-r"
-				echo "$total_size"
-				cd ../
-			fi
-		fi
 		if [ ! -d "$f" ]; then
-			echo "$f is not a directory"
 			total_size=$((total_size + $(get_file_size "$f")))
-			echo "$total_size"
 		fi
 	done
 }
