@@ -6,7 +6,7 @@ for dir in ./*; do
 		cd "$dir"
 		for f in *.c; do
 			echo "compiling $f"
-			gcc "$f"
+			gcc "$f" -Wall -pedantic -o test.out
 		done
 		cd ../
 	fi
