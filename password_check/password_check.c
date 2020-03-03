@@ -15,6 +15,8 @@ int main(int argc, char **argv)
 		"\t-One or more digits from 0 to 9\n"
 		"\t-One symbol from the set {\"%\",\"+\",\"#\"}\n"
 		"Please enter password: ";
+	// Assignment doesn't specifically say it needs a prompt, but it does say "ask the user
+	// to input a password, so I figure it's allright to include one.
 	unsigned char password_str[32];
 	password_str[0] = '\0';
 	unsigned int c;
