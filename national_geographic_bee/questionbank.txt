@@ -1,0 +1,300 @@
+The neighbors of USA are
+1. Canada and Mexico
+2. United Kingdom, Russia, Mexico and North Carolina
+3. Brazil, Mexico, Canada
+4. No Neighbors
+1
+What is USA stands for
+1. United States of America
+2. United Stand Always
+3. United South Africa
+4. United State Employees
+1
+Where is USA
+1. Above Canada
+2. Below Canada
+3. Below Mexico
+4. Next to Texas
+2
+Where is Canada
+1. Below USA
+2. Next to Australia
+3. Below Mexico
+4. Above USA
+4
+Where is California
+1. Next to Nevada
+2. Next to Texas
+3. Next to Washington DC
+4. Next to Washington State
+1
+Where is Nevada
+1. in Mexico
+2. Next to Texas
+3. Next to Las Vegas
+4. Next to California
+4
+White house is in
+1. Canada
+2. California
+3. Next to my house
+4. Washington DC
+4
+New York City is in
+1. New York
+2. Maryland
+3. Delaware
+4. New Jersey
+1
+Toranto is in
+1. USA
+2. Canada
+3. Mexico
+4. UK
+2
+UK stands for
+1. Unknown
+2. United Kentucky
+3. United Kings
+4. United Kingdom
+4
+Kentucky is in
+1. Canada
+2. Mexico
+3. City in Texas
+4. USA
+4
+San Diego is in
+1. Nevada
+2. California
+3. Utah
+4. Oregon
+2
+Los Angeles is in
+1. Texas
+2. Utah
+3. California
+4. Nevada
+3
+Florida is
+1. Next to Texas
+2. Next to Georgia
+3. Next to New York
+4. Next to Memphis
+2
+Sierra Mountains are in
+1. West Coast
+2. Each Coast
+3. Sierra Lone
+4. Africa
+1
+Blue Mountain Ridge is in
+1. East of Mississippi
+2. West of Mississippi
+3. in Canada
+4. Mexico
+1
+Mississippi divides
+1. America
+2. Canada
+3. Mexico
+4. Russia
+1
+Mississippi River flows through
+1. Nevada
+2. California
+3. Mississippi
+4. Maryland
+3
+American River flows through
+1. Nevada
+2. Mexico
+3. California
+4. Utah
+3
+South Dakota is in
+1. Canada
+2. America
+3. Mexico
+4. Russia
+2
+I can see this country from Alaska :)
+1. India
+2. Canada
+3. Mexico
+4. United Kindom
+2
+United Kingdom is in
+1. America
+2. Africa
+3. Europe
+4. Asia
+3
+Russia is in
+1. America
+2. Africa
+3. Asia
+4. Europe
+4
+Nigeria is in
+1. America
+2. Africa
+3. Asia
+4. Europe
+2
+China is in
+1. America
+2. Africa
+3. Asia
+4. Europe
+3
+Argentina is in
+1. America
+2. Africa
+3. Asia
+4. Europe
+1
+Brazil is in
+1. America
+2. Africa
+3. Asia
+4. Europe
+1
+Iran is in
+1. America
+2. Africa
+3. Asia
+4. Middle East
+4
+India is in
+1. America
+2. Africa
+3. Asia
+4. Middle East
+3
+France is in
+1. America
+2. Europe
+3. Asia
+4. Middle East
+2
+Perth is in
+1. America
+2. Europe
+3. Asia
+4. Australia
+4
+Sydney is in
+1. America
+2. Australia
+3. Europe
+4. Asia
+2
+Chicago is in
+1. America
+2. Australia
+3. Europe
+4. Asia
+1
+South Korea is in
+1. America
+2. Australia
+3. Europe
+4. Asia
+4
+Germany is in
+1. America
+2. Australia
+3. Europe
+4. Asia
+3
+London is in
+1. America
+2. Australia
+3. Europe
+4. Asia
+3
+Atlanta is in
+1. Atlantic City
+2. Atlantic Ocean
+3. Georgia Country
+4. Georgia State in USA
+4
+Spain is in
+1. America
+2. Australia
+3. Europe
+4. Asia
+3
+Egypt is in
+1. America
+2. Africa
+3. Europe
+4. Asia
+2
+Uganda is in
+1. America
+2. Africa
+3. Europe
+4. Asia
+2
+Iraq is in
+1. America
+2. Africa
+3. Europe
+4. Middle East
+4
+Texas is in
+1. South
+2. North
+3. East
+4. West
+1
+New York is in
+1. South
+2. North
+3. East
+4. West
+3
+California is in
+1. South
+2. North
+3. East
+4. West
+4
+Illinois is in
+1. South
+2. North
+3. East
+4. West
+2
+Sacramento is in
+1. California
+2. Nevada
+3. Texas
+4. Utah
+1
+Paris is in
+1. Europe
+2. Asia
+3. USA
+4. Mexico
+1
+Louisiana is in
+1. Canada
+2. Texas
+3. USA
+4. Mexico
+3
+North Carolina is
+1. Next to Texas
+2. Next to California
+3. Next to South Carolina
+4. Utah
+3
+Belgium is in
+1. Europe
+2. Asia
+3. USA
+4. Mexico
+1
